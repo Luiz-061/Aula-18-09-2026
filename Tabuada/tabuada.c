@@ -1,2 +1,1 @@
-#include <stdio.h>
-
+ECHO est  ativado.
